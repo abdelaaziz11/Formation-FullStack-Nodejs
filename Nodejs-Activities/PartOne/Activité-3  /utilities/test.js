@@ -6,6 +6,8 @@ console.log(exports === module.exports);
 exports.dirSalut = () => console.log("Salut !");
 console.log(module.exports)
 
+
+// Discussion:
 // __filename → chemin complet du fichier en cours.
 // __dirname → dossier où se trouve le fichier.
 // module → objet représentant le module actuel.

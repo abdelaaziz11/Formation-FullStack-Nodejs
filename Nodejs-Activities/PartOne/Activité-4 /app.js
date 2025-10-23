@@ -9,6 +9,7 @@ listerContact().forEach(c => console.log(formaterContact(c)))
 
 
 
+// Discussion:
 // Chaque module doit faire une seule tâche claire (ex : logique, affichage, ou configuration).
 // ContactService : ajouter les contacts et return les contacts que nous ajoutons
 // format : return la telephone et le nom en les contacts
